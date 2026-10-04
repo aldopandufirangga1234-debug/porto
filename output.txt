@@ -1,0 +1,4 @@
+Baris pertama
+Baris kedua
+hallo
+hallo
