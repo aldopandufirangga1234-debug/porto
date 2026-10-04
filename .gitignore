@@ -1,0 +1,30 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & output (opsional, hapus jika ingin track)
+*.log
+output.txt
